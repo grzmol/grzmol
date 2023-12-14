@@ -8,18 +8,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🔭 I’m working as Salesforce Developer in Spyrosoft<br>- ⚡ In my free time I enjoy learning technology-related stuff and producing music</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
